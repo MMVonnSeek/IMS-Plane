@@ -1,4 +1,4 @@
-# IMS Plane – Educational Python Gam
+# IMS Plane – Educational Python Game
 Link do vídeo de desenvolvimento:
 https://youtu.be/HJrVvEDDAXw
 
